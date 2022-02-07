@@ -9,7 +9,7 @@
 
 ## Summary:
 
-- Tech-Blog is a app for creating blogs.
+- Workout-Tracker is a app for tracking and monitoring your tarining wokouts and your fitness.
 
 
 ## Table of Contents:
@@ -24,29 +24,23 @@
 
 
 ## Installation:
-1. Clone the repo from https://github.com/scorpion77777/Blog
+1. Clone the repo from https://github.com/scorpion77777/workout_tracker
 2. Go to Blog folder root directory
-3. Create .env file in root directory with your credentials
 4. Install the modules with: npm i
-5. Seed data run with: npm run seed
-6. Run front end input: npm run build tailwind
-7. Open server.js in Terminal, then input: node server 
+7. Open server.js in Terminal, then input: npm start 
 
 
 ## Usage:
 
-1. First when user entering the app he/she must create account to use app create account click login button
-2. Login to your account
-3. Now you can create blog posts
-4. Comment on other users posts
-5. View your post 
-6. Edit your posts
-7. You can also delete your posts
+1. 
+2. 
+3. 
+5. 
 
 ## Libraries:
 
 - BACK_END: Node.js🚀
-- FRONT_END: Handlebars.js🦾 & Tailwind👨‍🎨
+- FRONT_END: HTML 5🏷 & Bootstrap🎨
 
 ## Tests:
 
