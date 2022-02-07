@@ -59,7 +59,7 @@ To my Instructors🚀🙏!!!
 
 ## Links:
 
-- Deployed app on Heroku https://rocky-plateau-22611.herokuapp.com/?id=62016dfc16b8e9000432ace4
+- Deployed app on Heroku <a target="blank" href="https://rocky-plateau-22611.herokuapp.com/?id=62016dfc16b8e9000432ace4">Deployed on Heroku</a>
 
 ## Author:
 
