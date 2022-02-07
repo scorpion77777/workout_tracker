@@ -41,6 +41,7 @@
 
 - BACK_END: Node.js🚀
 - FRONT_END: HTML 5🏷 & Bootstrap🎨
+- DATABASE: MongoDB👨‍💻 & Mongoose🦾
 
 ## Tests:
 
